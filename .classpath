@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="examples"/>
+	<classpathentry kind="src" path="sources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-22">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/cloudsim-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/cloudsim-3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/cloudsim-examples-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/cloudsim-examples-3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/commons-math3-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/commons-math3-3.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/cplex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/flanagan.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/javaml-0.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/jdom-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/libsvm-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/libsvm-3.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/moa-2012.08.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/moa-2012.08-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/pentaho.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/weka.jar" sourcepath="C:/Program Files/Weka-3-9/weka-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/weka-3-8-0-monolithic.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/weka-dev-3.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/weka-dev-3.7.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/weka-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/classificationViaClustering.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/DilcaDistance.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/NNge.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/cascadeKMeans.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/lazy-associative-classifier.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/lazyBayesianRules.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/oneClassClassifier.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/scriptingClassifiers.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/autoweka.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/hamcrest-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/hamcrest-generator.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/hamcrest-integration.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/hamcrest-library.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Malihe/eclipse-workspace/MLScheduling/jars/junit-4.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
